@@ -5,19 +5,21 @@ Here is my website
 ## Steps to Host with GitHub pages
 
 - Set up your project
-- 'git init'
-- 'git add .'
-- 'git commit -m "your commit msg"'
-- Create arepository on GitHub.com
-- Follow the steps for Upload an exisitng repository
+- `git init`
+- `git add .`
+- `git commit -m "your commit msg"`
+- Create a repository on GitHub.com
+- Follow the steps for "Upload an exisitng repository"
 - After any signficance changes:
-- git add .
-- git commit -m "Your message"
+    - `git add .`
+    - `git commit -m "Your message"`
+    - `git push`
 - Repository Settings
 - Pages
-- Select Main for Source in Drop Down 
-- Click Save
+- Select Main for Source in Drop Down List
+- Click "Save"
 - The URL probably won't work for about 5 minutes
+- Keep refreshing
 
 
 Parcel & Vercel
